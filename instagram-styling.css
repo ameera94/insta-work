@@ -5,7 +5,6 @@
 
 main {
     display: flex;
-    background-color: rgba(245, 245, 245, 0.2);
     justify-items: center;
     flex-direction: row;
     margin: auto 200px;
@@ -29,42 +28,25 @@ body {
 
 .sign-up {
     background-color: white;
-    justify-items: center;
-    justify-content: center; 
     flex: 1;
     padding: 50px 0px; 
     text-align: center;
-    
-    
-
 }
-
 
 .sign-up .container1 {
     border: 1px rgb(211, 211, 211) solid;
-    justify-items: center;
-    justify-content: center;
-    align-items: center;
     padding: 50px 100px;
     width: 200px;
     display: inline-block;
-
-    
 }
 
 .sign-up .container1 a {
     display: inline-block;
-    justify-items: center;
-    justify-content: center;
-
 }
 
 .sign-up form {
     background-color: white;
-    justify-items: center;
     display: inline-block;
-
-    
 }
 
 .sign-up form input {
@@ -81,7 +63,6 @@ body {
     border: 0px solid;
     color: white;
     font-weight: 500;
-    
 }
 
 .sign-up p {
@@ -90,34 +71,18 @@ body {
     font-weight: 500;
     font-size: 16px;
     text-align: center;
-    
-    
 }
-
-.sign-up img {
-    background-color: white;
-    justify-self: center; 
-    padding: 10px 10px;
-    
-
-}
-
-
 
 .sign-up .firsttext p {
     background-color: white;
     font-size: 15px;
     padding: 200px 20px;
     text-align: center;
-    
-
 }
 
 .sign-up .sectext {
     font-weight: normal;
     font-size: 15px;
-    ;
-
 }
 
 .sign-up .sectext a {
@@ -135,7 +100,6 @@ body {
     margin: 10px 50px;
     padding: auto 10px;
     width: 400px;
-
 }
 
 .login p {
@@ -152,7 +116,6 @@ body {
 
 .applinks {
     background-color: rgba(;, green, blue, alpha)
-
 }
 
 .applinks p {
@@ -164,16 +127,13 @@ body {
 
 .applinks a {
     display: inline-block;
-
 }
 
 
 footer {
     font-weight: 500;
     font-size: 12px;
-    background-color: rgba(245, 245, 245, 0.2);
     width: 100%;
-
 }
 
 footer nav {
@@ -181,18 +141,15 @@ footer nav {
 }
 
 footer li {
-    background-color: rgba(245, 245, 245, 0.2);
     list-style: none;
     text-decoration: none;
     display: inline-block;
     color: gray;
-    
-
 }
 
 footer li a {
     text-decoration: none;
-    color: black;
+    color:navy;
     text-transform: uppercase;
     font-size: 12px;
     font-weight: 500;
